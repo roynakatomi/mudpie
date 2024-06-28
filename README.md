@@ -6,4 +6,4 @@ Python with MS_Access
 This program requires the package pyodbc to be installed by pip.
 
 This program requires the Micosoft Access ODBC Drivers 64-Bit Version
-which is DownLoadablef from the Microsoft WebSite.
+which is DownLoadable from the Microsoft WebSite.
